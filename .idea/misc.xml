@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Acer/Desktop/6to/Aplicaciones Distribuidas/Segundo Parcial/ProyectoFinal/appFinal/app/src/main/res/layout/activity_entregar_repartidor.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/Acer/Desktop/6to/Aplicaciones Distribuidas/Segundo Parcial/ProyectoFinal/appFinal/app/src/main/res/layout/activity_historial_repartidor.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/Acer/Desktop/6to/Aplicaciones Distribuidas/Segundo Parcial/ProyectoFinal/appFinal/app/src/main/res/layout/activity_login_repartidor.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/Desktop/6to/Aplicaciones Distribuidas/Segundo Parcial/ProyectoFinal/appFinal/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/Desktop/6to/Aplicaciones Distribuidas/Segundo Parcial/ProyectoFinal/appFinal/app/src/main/res/layout/activity_menu_repartidor.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/Desktop/6to/Aplicaciones Distribuidas/Segundo Parcial/ProyectoFinal/appFinal/app/src/main/res/layout/activity_menu_usuario.xml" value="0.21875" />
+        <entry key="..\:/Users/Acer/Desktop/6to/Aplicaciones Distribuidas/Segundo Parcial/ProyectoFinal/appFinal/app/src/main/res/layout/activity_pantalla_principal.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Acer/Desktop/6to/Aplicaciones Distribuidas/Segundo Parcial/ProyectoFinal/appFinal/app/src/main/res/layout/activity_pedidos_repartidor.xml" value="0.19746376811594202" />
+        <entry key="..\:/Users/Acer/Desktop/6to/Aplicaciones Distribuidas/Segundo Parcial/ProyectoFinal/appFinal/app/src/main/res/layout/activity_pedidos_usuario.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/Desktop/6to/Aplicaciones Distribuidas/Segundo Parcial/ProyectoFinal/appFinal/app/src/main/res/layout/activity_visualizar_usuario.xml" value="0.21875" />
+        <entry key="..\:/Users/Acer/Desktop/6to/Aplicaciones Distribuidas/Segundo Parcial/ProyectoFinal/appFinal/app/src/main/res/layout/item_pedido.xml" value="0.21875" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/ProyectoFinal/appFinal/app/src/main/res/layout/activity_entregar_repartidor.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/ProyectoFinal/appFinal/app/src/main/res/layout/activity_login_repartidor.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/ProyectoFinal/appFinal/app/src/main/res/layout/activity_main.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/ProyectoFinal/appFinal/app/src/main/res/layout/activity_menu_repartidor.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/ProyectoFinal/appFinal/app/src/main/res/layout/activity_menu_usuario.xml" value="0.4" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/ProyectoFinal/appFinal/app/src/main/res/layout/activity_pantalla_principal.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/ProyectoFinal/appFinal/app/src/main/res/layout/activity_pedidos_usuario.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Acer/Desktop/PROYECTOS/ProyectoFinal/appFinal/app/src/main/res/layout/activity_visualizar_usuario.xml" value="0.2296195652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
